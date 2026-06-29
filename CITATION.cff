@@ -7,6 +7,7 @@ authors:
     given-names: Arif
     orcid: "https://orcid.org/0009-0005-8802-9629"
 repository-code: "https://github.com/noeroelama/lstm-gstarx-casa"
+doi: "10.5281/zenodo.21019639"
 license: MIT
 version: 1.3.0
 date-released: "2026-06-29"
