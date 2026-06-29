@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+outputs/
+paper_figs/
+data/a_geo_k*.npy
+.DS_Store

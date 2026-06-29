@@ -1,0 +1,7 @@
+config,K,mode,use_climate,rmse_mean,rmse_std,alpha_mean
+static   GSTAR,12,static,False,81.249,8.387,1.0
+learned  GSTAR,12,learned,False,80.695,8.322,0.0
+adaptive GSTAR,12,adaptive,False,82.226,7.796,0.0043
+static   GSTARX,12,static,True,79.042,6.351,1.0
+learned  GSTARX,12,learned,True,79.218,6.407,0.0
+adaptive GSTARX,12,adaptive,True,79.078,5.987,0.0173

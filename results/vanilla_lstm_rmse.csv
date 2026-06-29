@@ -1,0 +1,5 @@
+model,K,seed,rmse_mean,rmse_std
+vanilla_lstm_k12,12,7,73.141,5.429
+vanilla_lstm_k12,12,42,72.639,7.231
+vanilla_lstm_k12,12,123,72.434,7.983
+vanilla_lstm_k12_MULTISEED,12,7;42;123,72.738,0.364

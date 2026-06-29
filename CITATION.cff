@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "LSTM-GSTARX(K;1) + CASA: monthly rainfall forecasting for Indonesia"
+type: software
+authors:
+  - family-names: Nurwahid
+    given-names: Arif
+    orcid: "https://orcid.org/0009-0005-8802-9629"
+repository-code: "https://github.com/noeroelama/lstm-gstarx-casa"
+license: MIT
+version: 1.3.0
+date-released: "2026-06-29"
+keywords:
+  - spatiotemporal forecasting
+  - monthly rainfall
+  - LSTM-GSTARX
+  - spatial attention
+  - Indonesia
+preferred-citation:
+  type: article
+  title: "Climate-adaptive spatial weights for space-time autoregression: an equivalence result for monthly rainfall forecasting"
+  authors:
+    - family-names: Nurwahid
+      given-names: Arif
+      orcid: "https://orcid.org/0009-0005-8802-9629"
+  year: 2026
