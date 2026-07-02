@@ -7,10 +7,10 @@ authors:
     given-names: Arif
     orcid: "https://orcid.org/0009-0005-8802-9629"
 repository-code: "https://github.com/noeroelama/lstm-gstarx-casa"
-doi: "10.5281/zenodo.21019639"
+doi: "10.5281/zenodo.21122830"
 license: MIT
-version: 1.0.0
-date-released: "2026-06-29"
+version: 1.1.0
+date-released: "2026-07-02"
 keywords:
   - spatiotemporal forecasting
   - monthly rainfall

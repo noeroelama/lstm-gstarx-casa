@@ -1,7 +1,7 @@
 # LSTM-GSTARX(K;1) + CASA — monthly rainfall forecasting for Indonesia
 
 [![CI](https://github.com/noeroelama/lstm-gstarx-casa/actions/workflows/ci.yml/badge.svg)](https://github.com/noeroelama/lstm-gstarx-casa/actions/workflows/ci.yml)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21019639.svg)](https://doi.org/10.5281/zenodo.21019639)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21122830.svg)](https://doi.org/10.5281/zenodo.21122830)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8802--9629-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8802-9629)
 
